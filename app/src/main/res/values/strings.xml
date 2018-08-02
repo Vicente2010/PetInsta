@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PetInsta</string>
+    <string name="defaultName">Nombre Mascota</string>
+    <string name="defaultRate">0</string>
+
+    <string name="titulo">PetInstragram</string>
+</resources>

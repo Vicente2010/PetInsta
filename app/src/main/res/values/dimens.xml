@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="BottomPad">16dp</dimen>
+    <dimen name="cornerRadiusCard">4dp</dimen>
+    <dimen name="sizeNombre">28sp</dimen>
+    <dimen name="sizeRate">25sp</dimen>
+    <dimen name="pad">10dp</dimen>
+    <dimen name="actionBarElevation">4dp</dimen>
+    <dimen name="sizeTitulo">33sp</dimen>
+</resources>
